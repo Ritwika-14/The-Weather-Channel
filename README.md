@@ -1,5 +1,5 @@
 # Weather-o-meter
-https://ritwika-14.github.io/Weather-App/ - click to view and test
+[https://ritwika-14.github.io/Weather-App/](https://ritwika-14.github.io/weather-o-meter/) - click to view and test
 This is a simple weather application created using HTML, CSS, and JavaScript. It retrieves weather data from a public API and displays it to the user. This README file provides information on how to set up and use the Weather App.
 
 ## Table of Contents
